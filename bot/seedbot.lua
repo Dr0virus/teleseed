@@ -234,7 +234,7 @@ function create_config( )
     },
     sudo_users = {162637521},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Televirus bot v.1 based on teleseed by @dr_virus .
+    about_text = [[Televirus bot v.1 based on teleseed by @dr_virus.
 ]],
     help_text_realm = [[
 Realm Commands:
